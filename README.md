@@ -6,7 +6,7 @@
 
 ## SQL文編
 
-表示編と共通。
+[表示編と共通。](https://github.com/boiledshRimp/futsalteam_test)
 
 ## PHP編
 
